@@ -1,9 +1,5 @@
-//
 //  main.c
-//
-//  Created by Kornkanok Samrit on 4/9/2562 BE.
-//  Copyright © 2562 Kornkanok Samrit. All rights reserved.
-//
+//  Created on 4/9/2562 BE.
 
 #include <stdio.h>
 #include <stdlib.h>
